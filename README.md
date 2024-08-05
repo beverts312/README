@@ -4,7 +4,8 @@
 # Hello 👋
 My name is Bailey Everts and I am a technologist. My passions include cloud, engineering excellence, ai, crypto, home automation, security, and so much more! I love to learn new things. One of my core prinicpals is "Everything as Code".
 
-|[website][website]|[linkedin][linkedin]|
+Checkout my [website][website]!
+Connect with me on [linkedin][linkedin].
 
 ## Some tech I love 💕
 
